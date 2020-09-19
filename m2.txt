@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test2 another file
 updated this file.
+=======
+test2 another file
+>>>>>>> 0d5c7f2... Second Update
